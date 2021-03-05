@@ -17,7 +17,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageTags>wrapper ScintillaNET printing</PackageTags>
     <PackageReleaseNotes>See: https://github.com/VPKSoft/ScintillaNetPrinting</PackageReleaseNotes>
-    <Version>1.0.5</Version>
+    <Version>1.0.6</Version>
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netcoreapp3.1|AnyCPU'">
@@ -50,6 +50,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="unofficial.ScintillaNET" Version="3.8.0" />
+    <PackageReference Include="unofficial.ScintillaNET" Version="3.8.5" />
   </ItemGroup>
 </Project>
