@@ -33,7 +33,7 @@
   <ItemGroup>
     <None Remove=".gitignore" />
     <None Remove="ScintillaNetPrinting.1.0.0.1.nupkg" />
-    <None Remove="ScintillaNetPrinting.SUO.1.0.0.1.nupkg" />
+    <None Remove="ScintillaNetPrinting.NET.1.0.0.1.nupkg" />
     <None Include="vpksoft_logo.png">
       <Pack>True</Pack>
       <PackagePath />
